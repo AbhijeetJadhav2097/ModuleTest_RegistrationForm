@@ -1,0 +1,48 @@
+
+
+body{
+    margin: 0;
+    box-sizing: border-box;
+    width: auto;
+    height: 650px;
+    background-color: aquamarine;
+    }
+
+
+
+.registration-form{
+    padding: 10px;
+    width: 800px;
+    margin: 10px auto;
+    background-color: white;
+    border-radius: 8px;
+    color: #252A34;
+    font-family:'Times New Roman', Times, serif;
+    box-shadow: 10px 10px 20px;
+    background-color: lightgoldenrodyellow;
+}
+
+#btn:hover{
+color: rgb(252, 148, 74);
+}
+
+hr#hr{
+border: 2px solid grey;
+}
+
+span{
+color: rgb(0, 162, 255);
+}
+
+.valid-feedback{
+    color: green;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.invalid-feedback{
+    color: rgb(193, 13, 13);
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
